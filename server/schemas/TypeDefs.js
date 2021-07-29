@@ -51,4 +51,4 @@ type Mutation {
 
 `;
 
-module.exports = TypeDefs;
+module.exports = typeDefs;
